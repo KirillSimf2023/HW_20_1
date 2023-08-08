@@ -1,0 +1,7 @@
+[{"model": "catalog.category",  "fields": {"id": 1,"name": "Оргтехника", "description": "любая оргтехника"}},
+  {"model": "catalog.category",  "fields": {"id": 2,"name": "Овощи", "description": "Продукты питания"}},
+  {"model": "catalog.category",  "fields": {"id": 3,"name": "Книги", "description": "Художественные книги"}},
+  {"model": "catalog.category",  "fields": {"id": 4,"name": "Автомобили", "description": "Любые машины"}},
+  {"model": "catalog.category",  "fields": {"id": 5,"name": "Строительные материалы", "description": "Любые стройматериалы"}},
+  {"model": "catalog.category",  "fields": {"id": 6,"name": "Мотоцыклы", "description": "Любые мотоцыклы"}}
+]
