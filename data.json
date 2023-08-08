@@ -1,0 +1,18 @@
+[{"model": "catalog.category", "pk": 1, "fields": {"name": "Оргтехника", "description": "любая оргтехника"}},
+  {"model": "catalog.category", "pk": 2, "fields": {"name": "Овощи", "description": "Продукты питания"}},
+  {"model": "catalog.category", "pk": 4, "fields": {"name": "Автомобили", "description": null}},
+  {"model": "catalog.category", "pk": 5, "fields": {"name": "Строиткльные материалы", "description": null}},
+  {"model": "catalog.category", "pk": 6, "fields": {"name": "Мотоцыклы", "description": null}},
+  {"model": "catalog.product", "pk": 1, "fields": {"name": "Lenovo 510", "description": "Ноутбук Lenovo 510", "phot": "", "category": 1, "prise": 95000.0, "date_create": null, "date_changes": null}},
+  {"model": "catalog.product", "pk": 2, "fields": {"name": "HP 1002w", "description": "Принтер HP 1002w", "phot": "", "category": 1, "prise": 20000.0, "date_create": null, "date_changes": null}},
+  {"model": "catalog.product", "pk": 3, "fields": {"name": "Арбузы Астраханские", "description": "Арбузы из Астрахани", "phot": "", "category": 2, "prise": 45.0, "date_create": null, "date_changes": null}},
+  {"model": "catalog.product", "pk": 4, "fields": {"name": "Помидоры", "description": "Помидоры Крымские", "phot": "", "category": 2, "prise": 150.0, "date_create": null, "date_changes": null}},
+  {"model": "catalog.product", "pk": 5, "fields": {"name": "Огурцы", "description": "Огурцы грунтовые", "phot": "", "category": 2, "prise": 150.0, "date_create": null, "date_changes": null}},
+  {"model": "catalog.product", "pk": 6, "fields": {"name": "Ваз 2110", "description": "Десятка", "phot": "", "category": 4, "prise": 150000, "date_create": null, "date_changes": null}},
+  {"model": "catalog.product", "pk": 7, "fields": {"name": "Nissan", "description": "Nissan Juke", "phot": "", "category": 4, "prise": 750000, "date_create": null, "date_changes": null}},
+  {"model": "catalog.product", "pk": 8, "fields": {"name": "Nissan", "description": "Nissan Almera", "phot": "", "category": 4, "prise": 250000, "date_create": null, "date_changes": null}},
+  {"model": "catalog.product", "pk": 9, "fields": {"name": "Кирпич", "description": "Кирпич шамотный", "phot": "", "category": 5, "prise": 250, "date_create": null, "date_changes": null}},
+  {"model": "catalog.product", "pk": 10, "fields": {"name": "Кирпич", "description": "Кирпич обожонный", "phot": "", "category": 5, "prise": 200, "date_create": null, "date_changes": null}},
+  {"model": "catalog.product", "pk": 11, "fields": {"name": "Цемент", "description": "Цемент 200", "phot": "", "category": 5, "prise": 500, "date_create": null, "date_changes": null}},
+  {"model": "catalog.product", "pk": 12, "fields": {"name": "Цемент", "description": "Цемент 500", "phot": "", "category": 5, "prise": 1500, "date_create": null, "date_changes": null}}
+]
