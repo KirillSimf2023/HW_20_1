@@ -1,0 +1,13 @@
+[{"model": "catalog.product",  "fields": {"name": "Lenovo 510", "description": "Ноутбук Lenovo 510",  "category_id": 1, "prise": 95000.0 }},
+  {"model": "catalog.product",  "fields": {"name": "HP 1002w", "description": "Принтер HP 1002w",  "category_id": 1, "prise": 20000.0}},
+  {"model": "catalog.product",  "fields": {"name": "Арбузы Астраханские", "description": "Арбузы из Астрахани",  "category_id": 2, "prise": 45.0}},
+  {"model": "catalog.product",  "fields": {"name": "Помидоры", "description": "Помидоры Крымские",  "category_id": 2, "prise": 150.0}},
+  {"model": "catalog.product",  "fields": {"name": "Огурцы", "description": "Огурцы грунтовые",  "category_id": 2, "prise": 150.0}},
+  {"model": "catalog.product",  "fields": {"name": "Ваз 2110", "description": "Десятка",  "category_id": 4, "prise": 150000}},
+  {"model": "catalog.product",  "fields": {"name": "Nissan", "description": "Nissan Juke",  "category_id": 4, "prise": 750000}},
+  {"model": "catalog.product",  "fields": {"name": "Nissan", "description": "Nissan Almera",  "category_id": 4, "prise": 250000}},
+  {"model": "catalog.product",  "fields": {"name": "Кирпич", "description": "Кирпич шамотный",  "category_id": 5, "prise": 250}},
+  {"model": "catalog.product",  "fields": {"name": "Кирпич", "description": "Кирпич обожонный",  "category_id": 5, "prise": 200}},
+  {"model": "catalog.product",  "fields": {"name": "Цемент", "description": "Цемент 200",  "category_id": 5, "prise": 500}},
+  {"model": "catalog.product",  "fields": {"name": "Цемент", "description": "Цемент 500",  "category_id": 5, "prise": 1500}}
+]
